@@ -2,26 +2,26 @@
 
 Test tasks solutions for HH Programmers School
 
-### Build
+## Build
 
 ```
 mvn package
 ```
 
-### Running
+## Running
 
-## Running the task 1
+### Running the task 1
 
 ```
 ./task1.run
 ```
 
-## Running the task 1
+### Running the task 1
 
 ```
 ./task2.run
 ```
 
-### Authors
+## Authors
 
 * **Konstantin Novokreshchenov** 
